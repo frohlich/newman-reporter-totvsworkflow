@@ -1,6 +1,6 @@
 {
   "name": "newman-reporter-totvsworkflow",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Plugin para o newman com o objetivo de exportar os testes no padrão do TOTVS Worflow.",
   "main": "index.js",
   "scripts": {
