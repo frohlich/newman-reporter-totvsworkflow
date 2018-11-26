@@ -1,0 +1,14 @@
+{
+  "name": "newman-reporter-totvsworkflow",
+  "version": "1.0.0",
+  "description": "Plugin para o newman com o objetivo de exportar os testes no padrão do TOTVS Worflow.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Lucas Frohlich <lucasfrohlich@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "xml2js": "^0.4.19"
+  }
+}
