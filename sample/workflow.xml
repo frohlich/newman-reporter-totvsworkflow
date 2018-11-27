@@ -1,0 +1,1053 @@
+<?xml version="1.0"?>
+<Results>            
+  <CasoTeste name="fchcrm1001">           
+    <Cenarios>                                             
+      <Cenario name="cn_fchcrm1001_adicionar_campanha">        
+        <Execution startTime="13/11/2018 15:58:27" endTime="13/11/2018 15:58:39" outcome="Passed" computer="TOTVSJOI-CRM02">         
+          <Message value=""> 
+          </Message>                                       
+        </Execution>                                       
+      </Cenario>                                           
+    </Cenarios>                                            
+  </CasoTeste>                                             
+  <CasoTeste name="fchcrm1001">           
+    <Cenarios>                                             
+      <Cenario name="cn_fchcrm1001_editar_campanha">        
+        <Execution startTime="13/11/2018 16:01:44" endTime="13/11/2018 16:01:47" outcome="Passed" computer="TOTVSJOI-CRM02">         
+          <Message value=""> 
+          </Message>                                       
+        </Execution>                                       
+      </Cenario>                                           
+    </Cenarios>                                            
+  </CasoTeste>                                             
+  <CasoTeste name="fchcrm1001">           
+    <Cenarios>                                             
+      <Cenario name="cn_fchcrm1001_remover_campanha">        
+        <Execution startTime="13/11/2018 16:02:01" endTime="13/11/2018 16:02:04" outcome="Passed" computer="TOTVSJOI-CRM02">         
+          <Message value=""> 
+          </Message>                                       
+        </Execution>                                       
+      </Cenario>                                           
+    </Cenarios>                                            
+  </CasoTeste>                                             
+  <CasoTeste name="fchcrm1070">           
+    <Cenarios>                                             
+      <Cenario name="cn_fchcrm1070_adicionar_acao">        
+        <Execution startTime="13/11/2018 16:02:18" endTime="13/11/2018 16:02:18" outcome="Passed" computer="TOTVSJOI-CRM02">         
+          <Message value=""> 
+          </Message>                                       
+        </Execution>                                       
+      </Cenario>                                           
+    </Cenarios>                                            
+  </CasoTeste>                                             
+  <CasoTeste name="fchcrm1070">           
+    <Cenarios>                                             
+      <Cenario name="cn_fchcrm1070_editar_acao">        
+        <Execution startTime="13/11/2018 16:02:28" endTime="13/11/2018 16:02:28" outcome="Passed" computer="TOTVSJOI-CRM02">         
+          <Message value=""> 
+          </Message>                                       
+        </Execution>                                       
+      </Cenario>                                           
+    </Cenarios>                                            
+  </CasoTeste>                                             
+  <CasoTeste name="fchcrm1070">           
+    <Cenarios>                                             
+      <Cenario name="cn_fchcrm1070_remover_acao">        
+        <Execution startTime="13/11/2018 16:02:35" endTime="13/11/2018 16:02:36" outcome="Passed" computer="TOTVSJOI-CRM02">         
+          <Message value=""> 
+          </Message>                                       
+        </Execution>                                       
+      </Cenario>                                           
+    </Cenarios>                                            
+  </CasoTeste>                                             
+  <CasoTeste name="fchcrm1072">           
+    <Cenarios>                                             
+      <Cenario name="cn_fchcrm1072_adicionar_midia">        
+        <Execution startTime="13/11/2018 16:02:43" endTime="13/11/2018 16:02:44" outcome="Passed" computer="TOTVSJOI-CRM02">         
+          <Message value=""> 
+          </Message>                                       
+        </Execution>                                       
+      </Cenario>                                           
+    </Cenarios>                                            
+  </CasoTeste>                                             
+  <CasoTeste name="fchcrm1072">           
+    <Cenarios>                                             
+      <Cenario name="cn_fchcrm1072_editar_midia">        
+        <Execution startTime="13/11/2018 16:02:52" endTime="13/11/2018 16:02:52" outcome="Passed" computer="TOTVSJOI-CRM02">         
+          <Message value=""> 
+          </Message>                                       
+        </Execution>                                       
+      </Cenario>                                           
+    </Cenarios>                                            
+  </CasoTeste>                                             
+  <CasoTeste name="fchcrm1072">           
+    <Cenarios>                                             
+      <Cenario name="cn_fchcrm1072_remover_midia">        
+        <Execution startTime="13/11/2018 16:03:00" endTime="13/11/2018 16:03:01" outcome="Passed" computer="TOTVSJOI-CRM02">         
+          <Message value=""> 
+          </Message>                                       
+        </Execution>                                       
+      </Cenario>                                           
+    </Cenarios>                                            
+  </CasoTeste>                                             
+  <CasoTeste name="fchcrm1005">           
+    <Cenarios>                                             
+      <Cenario name="cn_fchcrm1005_fluxo_aut_composto">        
+        <Execution startTime="13/11/2018 16:03:09" endTime="13/11/2018 16:03:14" outcome="Passed" computer="TOTVSJOI-CRM02">         
+          <Message value=""> 
+          </Message>                                       
+        </Execution>                                       
+      </Cenario>                                           
+    </Cenarios>                                            
+  </CasoTeste>                                             
+  <CasoTeste name="fchcrm1005">           
+    <Cenarios>                                             
+      <Cenario name="cn_fchcrm1005_fluxo_aut_simples">        
+        <Execution startTime="13/11/2018 16:03:47" endTime="13/11/2018 16:03:50" outcome="Passed" computer="TOTVSJOI-CRM02">         
+          <Message value=""> 
+          </Message>                                       
+        </Execution>                                       
+      </Cenario>                                           
+    </Cenarios>                                            
+  </CasoTeste>                                             
+  <CasoTeste name="fchcrm1074">           
+    <Cenarios>                                             
+      <Cenario name="cn_fchcrm1074_adicionar_detalhamento">        
+        <Execution startTime="13/11/2018 16:04:29" endTime="13/11/2018 16:04:30" outcome="Passed" computer="TOTVSJOI-CRM02">         
+          <Message value=""> 
+          </Message>                                       
+        </Execution>                                       
+      </Cenario>                                           
+    </Cenarios>                                            
+  </CasoTeste>                                             
+  <CasoTeste name="fchcrm1074">           
+    <Cenarios>                                             
+      <Cenario name="cn_fchcrm1074_editar_detalhamento">        
+        <Execution startTime="13/11/2018 16:04:43" endTime="13/11/2018 16:04:44" outcome="Passed" computer="TOTVSJOI-CRM02">         
+          <Message value=""> 
+          </Message>                                       
+        </Execution>                                       
+      </Cenario>                                           
+    </Cenarios>                                            
+  </CasoTeste>                                             
+  <CasoTeste name="fchcrm1074">           
+    <Cenarios>                                             
+      <Cenario name="cn_fchcrm1074_remover_detalhamento">        
+        <Execution startTime="13/11/2018 16:04:51" endTime="13/11/2018 16:04:52" outcome="Passed" computer="TOTVSJOI-CRM02">         
+          <Message value=""> 
+          </Message>                                       
+        </Execution>                                       
+      </Cenario>                                           
+    </Cenarios>                                            
+  </CasoTeste>                                             
+  <CasoTeste name="fchcrm1073">           
+    <Cenarios>                                             
+      <Cenario name="cn_fchcrm1073_adicionar_resultado">        
+        <Execution startTime="13/11/2018 16:04:59" endTime="13/11/2018 16:05:01" outcome="Passed" computer="TOTVSJOI-CRM02">         
+          <Message value=""> 
+          </Message>                                       
+        </Execution>                                       
+      </Cenario>                                           
+    </Cenarios>                                            
+  </CasoTeste>                                             
+  <CasoTeste name="fchcrm1073">           
+    <Cenarios>                                             
+      <Cenario name="cn_fchcrm1073_editar_resultado">        
+        <Execution startTime="13/11/2018 16:05:11" endTime="13/11/2018 16:05:12" outcome="Passed" computer="TOTVSJOI-CRM02">         
+          <Message value=""> 
+          </Message>                                       
+        </Execution>                                       
+      </Cenario>                                           
+    </Cenarios>                                            
+  </CasoTeste>                                             
+  <CasoTeste name="fchcrm1073">           
+    <Cenarios>                                             
+      <Cenario name="cn_fchcrm1073_remover_resultado">        
+        <Execution startTime="13/11/2018 16:05:21" endTime="13/11/2018 16:05:21" outcome="Passed" computer="TOTVSJOI-CRM02">         
+          <Message value=""> 
+          </Message>                                       
+        </Execution>                                       
+      </Cenario>                                           
+    </Cenarios>                                            
+  </CasoTeste>                                             
+  <CasoTeste name="fchcrm1000">           
+    <Cenarios>                                             
+      <Cenario name="cn_fchcrm1000_adicionar_tarefa">        
+        <Execution startTime="13/11/2018 16:05:30" endTime="13/11/2018 16:05:31" outcome="Passed" computer="TOTVSJOI-CRM02">         
+          <Message value=""> 
+          </Message>                                       
+        </Execution>                                       
+      </Cenario>                                           
+    </Cenarios>                                            
+  </CasoTeste>                                             
+  <CasoTeste name="fchcrm1000">           
+    <Cenarios>                                             
+      <Cenario name="cn_fchcrm1000_editar_tarefa">        
+        <Execution startTime="13/11/2018 16:05:47" endTime="13/11/2018 16:05:48" outcome="Passed" computer="TOTVSJOI-CRM02">         
+          <Message value=""> 
+          </Message>                                       
+        </Execution>                                       
+      </Cenario>                                           
+    </Cenarios>                                            
+  </CasoTeste>                                             
+  <CasoTeste name="fchcrm1003">           
+    <Cenarios>                                             
+      <Cenario name="cn_fchcrm1003_busca_conta_telefone">        
+        <Execution startTime="13/11/2018 16:06:23" endTime="13/11/2018 16:06:34" outcome="Passed" computer="TOTVSJOI-CRM02">         
+          <Message value=""> 
+          </Message>                                       
+        </Execution>                                       
+      </Cenario>                                           
+    </Cenarios>                                            
+  </CasoTeste>                                             
+  <CasoTeste name="fchcrm1003">           
+    <Cenarios>                                             
+      <Cenario name="cn_fchcrm1003_busca_conta_telefone">        
+        <Execution startTime="13/11/2018 16:06:46" endTime="13/11/2018 16:06:49" outcome="Passed" computer="TOTVSJOI-CRM02">         
+          <Message value=""> 
+          </Message>                                       
+        </Execution>                                       
+      </Cenario>                                           
+    </Cenarios>                                            
+  </CasoTeste>                                             
+  <CasoTeste name="apiTicketStatus">           
+    <Cenarios>                                             
+      <Cenario name="cn_apiTicketStatus_get">        
+        <Execution startTime="13/11/2018 16:06:59" endTime="13/11/2018 16:07:00" outcome="Passed" computer="TOTVSJOI-CRM02">         
+          <Message value=""> 
+          </Message>                                       
+        </Execution>                                       
+      </Cenario>                                           
+    </Cenarios>                                            
+  </CasoTeste>                                             
+  <CasoTeste name="apiTicketStatus">           
+    <Cenarios>                                             
+      <Cenario name="cn_apiTicketStatus_query">        
+        <Execution startTime="13/11/2018 16:07:11" endTime="13/11/2018 16:07:11" outcome="Passed" computer="TOTVSJOI-CRM02">         
+          <Message value=""> 
+          </Message>                                       
+        </Execution>                                       
+      </Cenario>                                           
+    </Cenarios>                                            
+  </CasoTeste>                                             
+  <CasoTeste name="apiTicketStatus">           
+    <Cenarios>                                             
+      <Cenario name="cn_apiTicketStatus_delete">        
+        <Execution startTime="13/11/2018 16:07:18" endTime="13/11/2018 16:07:19" outcome="Passed" computer="TOTVSJOI-CRM02">         
+          <Message value=""> 
+          </Message>                                       
+        </Execution>                                       
+      </Cenario>                                           
+    </Cenarios>                                            
+  </CasoTeste>                                             
+  <CasoTeste name="apiTicketStatus">           
+    <Cenarios>                                             
+      <Cenario name="cn_apiTicketStatus_post">        
+        <Execution startTime="13/11/2018 16:07:28" endTime="13/11/2018 16:07:29" outcome="Passed" computer="TOTVSJOI-CRM02">         
+          <Message value=""> 
+          </Message>                                       
+        </Execution>                                       
+      </Cenario>                                           
+    </Cenarios>                                            
+  </CasoTeste>                                             
+  <CasoTeste name="apiTicketStatus">           
+    <Cenarios>                                             
+      <Cenario name="cn_apiTicketStatus_put">        
+        <Execution startTime="13/11/2018 16:07:36" endTime="13/11/2018 16:07:36" outcome="Passed" computer="TOTVSJOI-CRM02">         
+          <Message value=""> 
+          </Message>                                       
+        </Execution>                                       
+      </Cenario>                                           
+    </Cenarios>                                            
+  </CasoTeste>                                             
+  <CasoTeste name="fchcrm1007">           
+    <Cenarios>                                             
+      <Cenario name="cn_fchcrm1007_setar_oportunidade_perdida_invalida">        
+        <Execution startTime="13/11/2018 16:07:44" endTime="13/11/2018 16:07:45" outcome="Passed" computer="TOTVSJOI-CRM02">         
+          <Message value=""> 
+          </Message>                                       
+        </Execution>                                       
+      </Cenario>                                           
+    </Cenarios>                                            
+  </CasoTeste>                                             
+  <CasoTeste name="fchcrm1007">           
+    <Cenarios>                                             
+      <Cenario name="cn_fchcrm1007_setar_oportunidade_perdida">        
+        <Execution startTime="13/11/2018 16:07:54" endTime="13/11/2018 16:07:56" outcome="Passed" computer="TOTVSJOI-CRM02">         
+          <Message value=""> 
+          </Message>                                       
+        </Execution>                                       
+      </Cenario>                                           
+    </Cenarios>                                            
+  </CasoTeste>                                             
+  <CasoTeste name="apiTicketCause">           
+    <Cenarios>                                             
+      <Cenario name="cn_apiTicketCause_get">        
+        <Execution startTime="13/11/2018 16:08:09" endTime="13/11/2018 16:08:10" outcome="Passed" computer="TOTVSJOI-CRM02">         
+          <Message value=""> 
+          </Message>                                       
+        </Execution>                                       
+      </Cenario>                                           
+    </Cenarios>                                            
+  </CasoTeste>                                             
+  <CasoTeste name="apiTicketCause">           
+    <Cenarios>                                             
+      <Cenario name="cn_apiTicketCause_query">        
+        <Execution startTime="13/11/2018 16:08:18" endTime="13/11/2018 16:08:18" outcome="Passed" computer="TOTVSJOI-CRM02">         
+          <Message value=""> 
+          </Message>                                       
+        </Execution>                                       
+      </Cenario>                                           
+    </Cenarios>                                            
+  </CasoTeste>                                             
+  <CasoTeste name="apiTicketCause">           
+    <Cenarios>                                             
+      <Cenario name="cn_apiTicketCause_delete">        
+        <Execution startTime="13/11/2018 16:08:27" endTime="13/11/2018 16:08:28" outcome="Passed" computer="TOTVSJOI-CRM02">         
+          <Message value=""> 
+          </Message>                                       
+        </Execution>                                       
+      </Cenario>                                           
+    </Cenarios>                                            
+  </CasoTeste>                                             
+  <CasoTeste name="apiTicketCause">           
+    <Cenarios>                                             
+      <Cenario name="cn_apiTicketCause_post">        
+        <Execution startTime="13/11/2018 16:08:43" endTime="13/11/2018 16:08:43" outcome="Passed" computer="TOTVSJOI-CRM02">         
+          <Message value=""> 
+          </Message>                                       
+        </Execution>                                       
+      </Cenario>                                           
+    </Cenarios>                                            
+  </CasoTeste>                                             
+  <CasoTeste name="apiTicketCause">           
+    <Cenarios>                                             
+      <Cenario name="cn_apiTicketCause_put">        
+        <Execution startTime="13/11/2018 16:08:51" endTime="13/11/2018 16:08:51" outcome="Passed" computer="TOTVSJOI-CRM02">         
+          <Message value=""> 
+          </Message>                                       
+        </Execution>                                       
+      </Cenario>                                           
+    </Cenarios>                                            
+  </CasoTeste>                                             
+  <CasoTeste name="apiTicketSymptom">           
+    <Cenarios>                                             
+      <Cenario name="cn_apiTicketSymptom_get">        
+        <Execution startTime="13/11/2018 16:08:58" endTime="13/11/2018 16:08:59" outcome="Passed" computer="TOTVSJOI-CRM02">         
+          <Message value=""> 
+          </Message>                                       
+        </Execution>                                       
+      </Cenario>                                           
+    </Cenarios>                                            
+  </CasoTeste>                                             
+  <CasoTeste name="apiTicketSymptom">           
+    <Cenarios>                                             
+      <Cenario name="cn_apiTicketSymptom_query">        
+        <Execution startTime="13/11/2018 16:09:06" endTime="13/11/2018 16:09:06" outcome="Passed" computer="TOTVSJOI-CRM02">         
+          <Message value=""> 
+          </Message>                                       
+        </Execution>                                       
+      </Cenario>                                           
+    </Cenarios>                                            
+  </CasoTeste>                                             
+  <CasoTeste name="apiTicketSymptom">           
+    <Cenarios>                                             
+      <Cenario name="cn_apiTicketSymptom_delete">        
+        <Execution startTime="13/11/2018 16:09:13" endTime="13/11/2018 16:09:14" outcome="Passed" computer="TOTVSJOI-CRM02">         
+          <Message value=""> 
+          </Message>                                       
+        </Execution>                                       
+      </Cenario>                                           
+    </Cenarios>                                            
+  </CasoTeste>                                             
+  <CasoTeste name="apiTicketSymptom">           
+    <Cenarios>                                             
+      <Cenario name="cn_apiTicketSymptom_post">        
+        <Execution startTime="13/11/2018 16:09:23" endTime="13/11/2018 16:09:23" outcome="Passed" computer="TOTVSJOI-CRM02">         
+          <Message value=""> 
+          </Message>                                       
+        </Execution>                                       
+      </Cenario>                                           
+    </Cenarios>                                            
+  </CasoTeste>                                             
+  <CasoTeste name="apiTicketSymptom">           
+    <Cenarios>                                             
+      <Cenario name="cn_apiTicketSymptom_put">        
+        <Execution startTime="13/11/2018 16:09:32" endTime="13/11/2018 16:09:32" outcome="Passed" computer="TOTVSJOI-CRM02">         
+          <Message value=""> 
+          </Message>                                       
+        </Execution>                                       
+      </Cenario>                                           
+    </Cenarios>                                            
+  </CasoTeste>                                             
+  <CasoTeste name="apiTicketSymptom">           
+    <Cenarios>                                             
+      <Cenario name="cn_apiTicketSymptom_patch">        
+        <Execution startTime="13/11/2018 16:09:40" endTime="13/11/2018 16:09:40" outcome="Passed" computer="TOTVSJOI-CRM02">         
+          <Message value=""> 
+          </Message>                                       
+        </Execution>                                       
+      </Cenario>                                           
+    </Cenarios>                                            
+  </CasoTeste>                                             
+  <CasoTeste name="apiTicketKeyword">           
+    <Cenarios>                                             
+      <Cenario name="CN_apiTicketKeyword_get">        
+        <Execution startTime="13/11/2018 16:09:50" endTime="13/11/2018 16:09:50" outcome="Passed" computer="TOTVSJOI-CRM02">         
+          <Message value=""> 
+          </Message>                                       
+        </Execution>                                       
+      </Cenario>                                           
+    </Cenarios>                                            
+  </CasoTeste>                                             
+  <CasoTeste name="apiTicketKeyword">           
+    <Cenarios>                                             
+      <Cenario name="CN_apiTicketKeyword_post">        
+        <Execution startTime="13/11/2018 16:09:58" endTime="13/11/2018 16:09:59" outcome="Passed" computer="TOTVSJOI-CRM02">         
+          <Message value=""> 
+          </Message>                                       
+        </Execution>                                       
+      </Cenario>                                           
+    </Cenarios>                                            
+  </CasoTeste>                                             
+  <CasoTeste name="apiTicketKeyword">           
+    <Cenarios>                                             
+      <Cenario name="CN_apiTicketKeyword_patch">        
+        <Execution startTime="13/11/2018 16:10:08" endTime="13/11/2018 16:10:09" outcome="Passed" computer="TOTVSJOI-CRM02">         
+          <Message value=""> 
+          </Message>                                       
+        </Execution>                                       
+      </Cenario>                                           
+    </Cenarios>                                            
+  </CasoTeste>                                             
+  <CasoTeste name="apiTicketKeyword">           
+    <Cenarios>                                             
+      <Cenario name="CN_apiTicketKeyword_put">        
+        <Execution startTime="13/11/2018 16:10:17" endTime="13/11/2018 16:10:17" outcome="Passed" computer="TOTVSJOI-CRM02">         
+          <Message value=""> 
+          </Message>                                       
+        </Execution>                                       
+      </Cenario>                                           
+    </Cenarios>                                            
+  </CasoTeste>                                             
+  <CasoTeste name="apiTicketKeyword">           
+    <Cenarios>                                             
+      <Cenario name="CN_apiTicketKeyword_query">        
+        <Execution startTime="13/11/2018 16:10:26" endTime="13/11/2018 16:10:26" outcome="Passed" computer="TOTVSJOI-CRM02">         
+          <Message value=""> 
+          </Message>                                       
+        </Execution>                                       
+      </Cenario>                                           
+    </Cenarios>                                            
+  </CasoTeste>                                             
+  <CasoTeste name="apiTicketKeyword">           
+    <Cenarios>                                             
+      <Cenario name="CN_apiTicketKeyword_delete">        
+        <Execution startTime="13/11/2018 16:10:33" endTime="13/11/2018 16:10:34" outcome="Passed" computer="TOTVSJOI-CRM02">         
+          <Message value=""> 
+          </Message>                                       
+        </Execution>                                       
+      </Cenario>                                           
+    </Cenarios>                                            
+  </CasoTeste>                                             
+  <CasoTeste name="apiOpportunityProbability">           
+    <Cenarios>                                             
+      <Cenario name="CN_apiOpportunityProbability_get">        
+        <Execution startTime="13/11/2018 16:10:42" endTime="13/11/2018 16:10:42" outcome="Passed" computer="TOTVSJOI-CRM02">         
+          <Message value=""> 
+          </Message>                                       
+        </Execution>                                       
+      </Cenario>                                           
+    </Cenarios>                                            
+  </CasoTeste>                                             
+  <CasoTeste name="apiOpportunityProbability">           
+    <Cenarios>                                             
+      <Cenario name="CN_apiOpportunityProbability_query">        
+        <Execution startTime="13/11/2018 16:10:50" endTime="13/11/2018 16:10:50" outcome="Passed" computer="TOTVSJOI-CRM02">         
+          <Message value=""> 
+          </Message>                                       
+        </Execution>                                       
+      </Cenario>                                           
+    </Cenarios>                                            
+  </CasoTeste>                                             
+  <CasoTeste name="apiOpportunityProbability">           
+    <Cenarios>                                             
+      <Cenario name="CN_apiOpportunityProbability_put">        
+        <Execution startTime="13/11/2018 16:10:58" endTime="13/11/2018 16:10:58" outcome="Passed" computer="TOTVSJOI-CRM02">         
+          <Message value=""> 
+          </Message>                                       
+        </Execution>                                       
+      </Cenario>                                           
+    </Cenarios>                                            
+  </CasoTeste>                                             
+  <CasoTeste name="apiOpportunityProbability">           
+    <Cenarios>                                             
+      <Cenario name="CN_apiOpportunityProbability_post">        
+        <Execution startTime="13/11/2018 16:11:06" endTime="13/11/2018 16:11:06" outcome="Passed" computer="TOTVSJOI-CRM02">         
+          <Message value=""> 
+          </Message>                                       
+        </Execution>                                       
+      </Cenario>                                           
+    </Cenarios>                                            
+  </CasoTeste>                                             
+  <CasoTeste name="apiOpportunityProbability">           
+    <Cenarios>                                             
+      <Cenario name="CN_apiOpportunityProbability_patch">        
+        <Execution startTime="13/11/2018 16:11:14" endTime="13/11/2018 16:11:14" outcome="Passed" computer="TOTVSJOI-CRM02">         
+          <Message value=""> 
+          </Message>                                       
+        </Execution>                                       
+      </Cenario>                                           
+    </Cenarios>                                            
+  </CasoTeste>                                             
+  <CasoTeste name="apiOpportunityProbability">           
+    <Cenarios>                                             
+      <Cenario name="CN_apiOpportunityProbability_delete">        
+        <Execution startTime="13/11/2018 16:11:23" endTime="13/11/2018 16:11:23" outcome="Passed" computer="TOTVSJOI-CRM02">         
+          <Message value=""> 
+          </Message>                                       
+        </Execution>                                       
+      </Cenario>                                           
+    </Cenarios>                                            
+  </CasoTeste>                                             
+  <CasoTeste name="apiTicketSource">           
+    <Cenarios>                                             
+      <Cenario name="CN_apiTicketSource_get">        
+        <Execution startTime="13/11/2018 16:11:32" endTime="13/11/2018 16:11:32" outcome="Passed" computer="TOTVSJOI-CRM02">         
+          <Message value=""> 
+          </Message>                                       
+        </Execution>                                       
+      </Cenario>                                           
+    </Cenarios>                                            
+  </CasoTeste>                                             
+  <CasoTeste name="apiTicketSource">           
+    <Cenarios>                                             
+      <Cenario name="CN_apiTicketSource_query">        
+        <Execution startTime="13/11/2018 16:11:40" endTime="13/11/2018 16:11:40" outcome="Passed" computer="TOTVSJOI-CRM02">         
+          <Message value=""> 
+          </Message>                                       
+        </Execution>                                       
+      </Cenario>                                           
+    </Cenarios>                                            
+  </CasoTeste>                                             
+  <CasoTeste name="apiTicketSource">           
+    <Cenarios>                                             
+      <Cenario name="CN_apiTicketSource_put">        
+        <Execution startTime="13/11/2018 16:11:46" endTime="13/11/2018 16:11:46" outcome="Passed" computer="TOTVSJOI-CRM02">         
+          <Message value=""> 
+          </Message>                                       
+        </Execution>                                       
+      </Cenario>                                           
+    </Cenarios>                                            
+  </CasoTeste>                                             
+  <CasoTeste name="apiTicketSource">           
+    <Cenarios>                                             
+      <Cenario name="CN_apiTicketSource_post">        
+        <Execution startTime="13/11/2018 16:11:54" endTime="13/11/2018 16:11:54" outcome="Passed" computer="TOTVSJOI-CRM02">         
+          <Message value=""> 
+          </Message>                                       
+        </Execution>                                       
+      </Cenario>                                           
+    </Cenarios>                                            
+  </CasoTeste>                                             
+  <CasoTeste name="apiTicketSource">           
+    <Cenarios>                                             
+      <Cenario name="CN_apiTicketSource_patch">        
+        <Execution startTime="13/11/2018 16:12:02" endTime="13/11/2018 16:12:03" outcome="Passed" computer="TOTVSJOI-CRM02">         
+          <Message value=""> 
+          </Message>                                       
+        </Execution>                                       
+      </Cenario>                                           
+    </Cenarios>                                            
+  </CasoTeste>                                             
+  <CasoTeste name="apiTicketSource">           
+    <Cenarios>                                             
+      <Cenario name="CN_apiTicketSource_delete">        
+        <Execution startTime="13/11/2018 16:12:11" endTime="13/11/2018 16:12:11" outcome="Passed" computer="TOTVSJOI-CRM02">         
+          <Message value="O status de retorno no foi o esperado (200) - (pi-delete-success)"> 
+          </Message>                                       
+        </Execution>                                       
+      </Cenario>                                           
+    </Cenarios>                                            
+  </CasoTeste>                                             
+  <CasoTeste name="apiOpportunityGainLoss">           
+    <Cenarios>                                             
+      <Cenario name="CN_apiOpportunityGainLoss_get">        
+        <Execution startTime="13/11/2018 16:12:18" endTime="13/11/2018 16:12:18" outcome="Passed" computer="TOTVSJOI-CRM02">         
+          <Message value=""> 
+          </Message>                                       
+        </Execution>                                       
+      </Cenario>                                           
+    </Cenarios>                                            
+  </CasoTeste>                                             
+  <CasoTeste name="apiOpportunityGainLoss">           
+    <Cenarios>                                             
+      <Cenario name="CN_apiOpportunityGainLoss_query">        
+        <Execution startTime="13/11/2018 16:12:26" endTime="13/11/2018 16:12:26" outcome="Passed" computer="TOTVSJOI-CRM02">         
+          <Message value=""> 
+          </Message>                                       
+        </Execution>                                       
+      </Cenario>                                           
+    </Cenarios>                                            
+  </CasoTeste>                                             
+  <CasoTeste name="apiOpportunityGainLoss">           
+    <Cenarios>                                             
+      <Cenario name="CN_apiOpportunityGainLoss_put">        
+        <Execution startTime="13/11/2018 16:12:33" endTime="13/11/2018 16:12:34" outcome="Passed" computer="TOTVSJOI-CRM02">         
+          <Message value=""> 
+          </Message>                                       
+        </Execution>                                       
+      </Cenario>                                           
+    </Cenarios>                                            
+  </CasoTeste>                                             
+  <CasoTeste name="apiOpportunityGainLoss">           
+    <Cenarios>                                             
+      <Cenario name="CN_apiOpportunityGainLoss_post">        
+        <Execution startTime="13/11/2018 16:12:41" endTime="13/11/2018 16:12:41" outcome="Passed" computer="TOTVSJOI-CRM02">         
+          <Message value=""> 
+          </Message>                                       
+        </Execution>                                       
+      </Cenario>                                           
+    </Cenarios>                                            
+  </CasoTeste>                                             
+  <CasoTeste name="apiOpportunityGainLoss">           
+    <Cenarios>                                             
+      <Cenario name="CN_apiOpportunityGainLoss_patch">        
+        <Execution startTime="13/11/2018 16:12:50" endTime="13/11/2018 16:12:50" outcome="Passed" computer="TOTVSJOI-CRM02">         
+          <Message value=""> 
+          </Message>                                       
+        </Execution>                                       
+      </Cenario>                                           
+    </Cenarios>                                            
+  </CasoTeste>                                             
+  <CasoTeste name="apiOpportunityGainLoss">           
+    <Cenarios>                                             
+      <Cenario name="CN_apiOpportunityGainLoss_delete">        
+        <Execution startTime="13/11/2018 16:12:57" endTime="13/11/2018 16:12:58" outcome="Passed" computer="TOTVSJOI-CRM02">         
+          <Message value=""> 
+          </Message>                                       
+        </Execution>                                       
+      </Cenario>                                           
+    </Cenarios>                                            
+  </CasoTeste>                                             
+  <CasoTeste name="apiTicketResourceLevel">           
+    <Cenarios>                                             
+      <Cenario name="CN_apiTicketResourceLevel_get">        
+        <Execution startTime="13/11/2018 16:13:05" endTime="13/11/2018 16:13:06" outcome="Passed" computer="TOTVSJOI-CRM02">         
+          <Message value=""> 
+          </Message>                                       
+        </Execution>                                       
+      </Cenario>                                           
+    </Cenarios>                                            
+  </CasoTeste>                                             
+  <CasoTeste name="apiTicketResourceLevel">           
+    <Cenarios>                                             
+      <Cenario name="CN_apiTicketResourceLevel_query">        
+        <Execution startTime="13/11/2018 16:13:13" endTime="13/11/2018 16:13:13" outcome="Passed" computer="TOTVSJOI-CRM02">         
+          <Message value=""> 
+          </Message>                                       
+        </Execution>                                       
+      </Cenario>                                           
+    </Cenarios>                                            
+  </CasoTeste>                                             
+  <CasoTeste name="apiTicketResourceLevel">           
+    <Cenarios>                                             
+      <Cenario name="CN_apiTicketResourceLevel_put">        
+        <Execution startTime="13/11/2018 16:13:20" endTime="13/11/2018 16:13:20" outcome="Passed" computer="TOTVSJOI-CRM02">         
+          <Message value=""> 
+          </Message>                                       
+        </Execution>                                       
+      </Cenario>                                           
+    </Cenarios>                                            
+  </CasoTeste>                                             
+  <CasoTeste name="apiTicketResourceLevel">           
+    <Cenarios>                                             
+      <Cenario name="CN_apiTicketResourceLevel_post">        
+        <Execution startTime="13/11/2018 16:13:29" endTime="13/11/2018 16:13:29" outcome="Passed" computer="TOTVSJOI-CRM02">         
+          <Message value=""> 
+          </Message>                                       
+        </Execution>                                       
+      </Cenario>                                           
+    </Cenarios>                                            
+  </CasoTeste>                                             
+  <CasoTeste name="apiTicketResourceLevel">           
+    <Cenarios>                                             
+      <Cenario name="CN_apiTicketResourceLevel_patch">        
+        <Execution startTime="13/11/2018 16:13:36" endTime="13/11/2018 16:13:37" outcome="Passed" computer="TOTVSJOI-CRM02">         
+          <Message value=""> 
+          </Message>                                       
+        </Execution>                                       
+      </Cenario>                                           
+    </Cenarios>                                            
+  </CasoTeste>                                             
+  <CasoTeste name="apiTicketResourceLevel">           
+    <Cenarios>                                             
+      <Cenario name="CN_apiTicketResourceLevel_delete">        
+        <Execution startTime="13/11/2018 16:13:43" endTime="13/11/2018 16:13:44" outcome="Passed" computer="TOTVSJOI-CRM02">         
+          <Message value=""> 
+          </Message>                                       
+        </Execution>                                       
+      </Cenario>                                           
+    </Cenarios>                                            
+  </CasoTeste>                                             
+  <CasoTeste name="apiOpportunityStrongWeak">           
+    <Cenarios>                                             
+      <Cenario name="CN_apiOpportunityStrongWeak_get">        
+        <Execution startTime="13/11/2018 16:13:52" endTime="13/11/2018 16:13:52" outcome="Passed" computer="TOTVSJOI-CRM02">         
+          <Message value=""> 
+          </Message>                                       
+        </Execution>                                       
+      </Cenario>                                           
+    </Cenarios>                                            
+  </CasoTeste>                                             
+  <CasoTeste name="apiOpportunityStrongWeak">           
+    <Cenarios>                                             
+      <Cenario name="CN_apiOpportunityStrongWeak_put">        
+        <Execution startTime="13/11/2018 16:14:00" endTime="13/11/2018 16:14:01" outcome="Passed" computer="TOTVSJOI-CRM02">         
+          <Message value=""> 
+          </Message>                                       
+        </Execution>                                       
+      </Cenario>                                           
+    </Cenarios>                                            
+  </CasoTeste>                                             
+  <CasoTeste name="apiOpportunityStrongWeak">           
+    <Cenarios>                                             
+      <Cenario name="CN_apiOpportunityStrongWeak_post">        
+        <Execution startTime="13/11/2018 16:14:10" endTime="13/11/2018 16:14:10" outcome="Passed" computer="TOTVSJOI-CRM02">         
+          <Message value=""> 
+          </Message>                                       
+        </Execution>                                       
+      </Cenario>                                           
+    </Cenarios>                                            
+  </CasoTeste>                                             
+  <CasoTeste name="apiOpportunityStrongWeak">           
+    <Cenarios>                                             
+      <Cenario name="CN_apiOpportunityStrongWeak_patch">        
+        <Execution startTime="13/11/2018 16:14:18" endTime="13/11/2018 16:14:18" outcome="Passed" computer="TOTVSJOI-CRM02">         
+          <Message value=""> 
+          </Message>                                       
+        </Execution>                                       
+      </Cenario>                                           
+    </Cenarios>                                            
+  </CasoTeste>                                             
+  <CasoTeste name="apiOpportunityStrongWeak">           
+    <Cenarios>                                             
+      <Cenario name="CN_apiOpportunityStrongWeak_query">        
+        <Execution startTime="13/11/2018 16:14:26" endTime="13/11/2018 16:14:26" outcome="Passed" computer="TOTVSJOI-CRM02">         
+          <Message value=""> 
+          </Message>                                       
+        </Execution>                                       
+      </Cenario>                                           
+    </Cenarios>                                            
+  </CasoTeste>                                             
+  <CasoTeste name="apiOpportunityStrongWeak">           
+    <Cenarios>                                             
+      <Cenario name="CN_apiOpportunityStrongWeak_delete">        
+        <Execution startTime="13/11/2018 16:14:34" endTime="13/11/2018 16:14:35" outcome="Passed" computer="TOTVSJOI-CRM02">         
+          <Message value=""> 
+          </Message>                                       
+        </Execution>                                       
+      </Cenario>                                           
+    </Cenarios>                                            
+  </CasoTeste>                                             
+  <CasoTeste name="apiAccountTelephoneType">           
+    <Cenarios>                                             
+      <Cenario name="CN_apiAccountTelephoneType_get">        
+        <Execution startTime="13/11/2018 16:14:43" endTime="13/11/2018 16:14:43" outcome="Passed" computer="TOTVSJOI-CRM02">         
+          <Message value=""> 
+          </Message>                                       
+        </Execution>                                       
+      </Cenario>                                           
+    </Cenarios>                                            
+  </CasoTeste>                                             
+  <CasoTeste name="apiAccountTelephoneType">           
+    <Cenarios>                                             
+      <Cenario name="CN_apiAccountTelephoneType_put">        
+        <Execution startTime="13/11/2018 16:14:51" endTime="13/11/2018 16:14:51" outcome="Passed" computer="TOTVSJOI-CRM02">         
+          <Message value=""> 
+          </Message>                                       
+        </Execution>                                       
+      </Cenario>                                           
+    </Cenarios>                                            
+  </CasoTeste>                                             
+  <CasoTeste name="apiAccountTelephoneType">           
+    <Cenarios>                                             
+      <Cenario name="CN_apiAccountTelephoneType_post">        
+        <Execution startTime="13/11/2018 16:14:59" endTime="13/11/2018 16:15:00" outcome="Passed" computer="TOTVSJOI-CRM02">         
+          <Message value=""> 
+          </Message>                                       
+        </Execution>                                       
+      </Cenario>                                           
+    </Cenarios>                                            
+  </CasoTeste>                                             
+  <CasoTeste name="apiAccountTelephoneType">           
+    <Cenarios>                                             
+      <Cenario name="CN_apiAccountTelephoneType_patch">        
+        <Execution startTime="13/11/2018 16:15:08" endTime="13/11/2018 16:15:09" outcome="Passed" computer="TOTVSJOI-CRM02">         
+          <Message value=""> 
+          </Message>                                       
+        </Execution>                                       
+      </Cenario>                                           
+    </Cenarios>                                            
+  </CasoTeste>                                             
+  <CasoTeste name="apiAccountTelephoneType">           
+    <Cenarios>                                             
+      <Cenario name="CN_apiAccountTelephoneType_query">        
+        <Execution startTime="13/11/2018 16:15:16" endTime="13/11/2018 16:15:16" outcome="Passed" computer="TOTVSJOI-CRM02">         
+          <Message value=""> 
+          </Message>                                       
+        </Execution>                                       
+      </Cenario>                                           
+    </Cenarios>                                            
+  </CasoTeste>                                             
+  <CasoTeste name="apiAccountTelephoneType">           
+    <Cenarios>                                             
+      <Cenario name="CN_apiAccountTelephoneType_delete">        
+        <Execution startTime="13/11/2018 16:15:23" endTime="13/11/2018 16:15:23" outcome="Passed" computer="TOTVSJOI-CRM02">         
+          <Message value=""> 
+          </Message>                                       
+        </Execution>                                       
+      </Cenario>                                           
+    </Cenarios>                                            
+  </CasoTeste>                                             
+  <CasoTeste name="apiFormalTreatment">           
+    <Cenarios>                                             
+      <Cenario name="CN_apiFormalTreatment_get">        
+        <Execution startTime="13/11/2018 16:15:31" endTime="13/11/2018 16:15:32" outcome="Passed" computer="TOTVSJOI-CRM02">         
+          <Message value=""> 
+          </Message>                                       
+        </Execution>                                       
+      </Cenario>                                           
+    </Cenarios>                                            
+  </CasoTeste>                                             
+  <CasoTeste name="apiFormalTreatment">           
+    <Cenarios>                                             
+      <Cenario name="CN_apiFormalTreatment_put">        
+        <Execution startTime="13/11/2018 16:15:39" endTime="13/11/2018 16:15:39" outcome="Passed" computer="TOTVSJOI-CRM02">         
+          <Message value=""> 
+          </Message>                                       
+        </Execution>                                       
+      </Cenario>                                           
+    </Cenarios>                                            
+  </CasoTeste>                                             
+  <CasoTeste name="apiFormalTreatment">           
+    <Cenarios>                                             
+      <Cenario name="CN_apiFormalTreatment_post">        
+        <Execution startTime="13/11/2018 16:15:47" endTime="13/11/2018 16:15:48" outcome="Passed" computer="TOTVSJOI-CRM02">         
+          <Message value=""> 
+          </Message>                                       
+        </Execution>                                       
+      </Cenario>                                           
+    </Cenarios>                                            
+  </CasoTeste>                                             
+  <CasoTeste name="apiFormalTreatment">           
+    <Cenarios>                                             
+      <Cenario name="CN_apiFormalTreatment_patch">        
+        <Execution startTime="13/11/2018 16:15:55" endTime="13/11/2018 16:15:56" outcome="Passed" computer="TOTVSJOI-CRM02">         
+          <Message value=""> 
+          </Message>                                       
+        </Execution>                                       
+      </Cenario>                                           
+    </Cenarios>                                            
+  </CasoTeste>                                             
+  <CasoTeste name="apiFormalTreatment">           
+    <Cenarios>                                             
+      <Cenario name="CN_apiFormalTreatment_query">        
+        <Execution startTime="13/11/2018 16:16:03" endTime="13/11/2018 16:16:03" outcome="Passed" computer="TOTVSJOI-CRM02">         
+          <Message value=""> 
+          </Message>                                       
+        </Execution>                                       
+      </Cenario>                                           
+    </Cenarios>                                            
+  </CasoTeste>                                             
+  <CasoTeste name="apiFormalTreatment">           
+    <Cenarios>                                             
+      <Cenario name="CN_apiFormalTreatment_delete">        
+        <Execution startTime="13/11/2018 16:16:10" endTime="13/11/2018 16:16:11" outcome="Passed" computer="TOTVSJOI-CRM02">         
+          <Message value=""> 
+          </Message>                                       
+        </Execution>                                       
+      </Cenario>                                           
+    </Cenarios>                                            
+  </CasoTeste>                                             
+  <CasoTeste name="apiSubgroupPotentiality">           
+    <Cenarios>                                             
+      <Cenario name="CN_apiSubgroupPotentiality_post">        
+        <Execution startTime="13/11/2018 16:16:19" endTime="13/11/2018 16:16:19" outcome="Passed" computer="TOTVSJOI-CRM02">         
+          <Message value=""> 
+          </Message>                                       
+        </Execution>                                       
+      </Cenario>                                           
+    </Cenarios>                                            
+  </CasoTeste>                                             
+  <CasoTeste name="apiSubgroupPotentiality">           
+    <Cenarios>                                             
+      <Cenario name="CN_apiSubgroupPotentiality_delete">        
+        <Execution startTime="13/11/2018 16:16:28" endTime="13/11/2018 16:16:29" outcome="Passed" computer="TOTVSJOI-CRM02">         
+          <Message value=""> 
+          </Message>                                       
+        </Execution>                                       
+      </Cenario>                                           
+    </Cenarios>                                            
+  </CasoTeste>                                             
+  <CasoTeste name="apiSubgroupPotentiality">           
+    <Cenarios>                                             
+      <Cenario name="CN_apiSubgroupPotentiality_get">        
+        <Execution startTime="13/11/2018 16:16:37" endTime="13/11/2018 16:16:38" outcome="Passed" computer="TOTVSJOI-CRM02">         
+          <Message value=""> 
+          </Message>                                       
+        </Execution>                                       
+      </Cenario>                                           
+    </Cenarios>                                            
+  </CasoTeste>                                             
+  <CasoTeste name="apiSubgroupPotentiality">           
+    <Cenarios>                                             
+      <Cenario name="CN_apiSubgroupPotentiality_query">        
+        <Execution startTime="13/11/2018 16:16:45" endTime="13/11/2018 16:16:45" outcome="Passed" computer="TOTVSJOI-CRM02">         
+          <Message value=""> 
+          </Message>                                       
+        </Execution>                                       
+      </Cenario>                                           
+    </Cenarios>                                            
+  </CasoTeste>                                             
+  <CasoTeste name="apiSubgroupPotentiality">           
+    <Cenarios>                                             
+      <Cenario name="CN_apiSubgroupPotentiality_patch">        
+        <Execution startTime="13/11/2018 16:16:53" endTime="13/11/2018 16:16:53" outcome="Passed" computer="TOTVSJOI-CRM02">         
+          <Message value=""> 
+          </Message>                                       
+        </Execution>                                       
+      </Cenario>                                           
+    </Cenarios>                                            
+  </CasoTeste>                                             
+  <CasoTeste name="apiSubgroupPotentiality">           
+    <Cenarios>                                             
+      <Cenario name="CN_apiSubgroupPotentiality_put">        
+        <Execution startTime="13/11/2018 16:17:02" endTime="13/11/2018 16:17:02" outcome="Passed" computer="TOTVSJOI-CRM02">         
+          <Message value=""> 
+          </Message>                                       
+        </Execution>                                       
+      </Cenario>                                           
+    </Cenarios>                                            
+  </CasoTeste>                                             
+  <CasoTeste name="apiAccountLinkType">           
+    <Cenarios>                                             
+      <Cenario name="CN_apiAccountLinkType_get">        
+        <Execution startTime="13/11/2018 16:17:11" endTime="13/11/2018 16:17:11" outcome="Passed" computer="TOTVSJOI-CRM02">         
+          <Message value=""> 
+          </Message>                                       
+        </Execution>                                       
+      </Cenario>                                           
+    </Cenarios>                                            
+  </CasoTeste>                                             
+  <CasoTeste name="apiAccountLinkType">           
+    <Cenarios>                                             
+      <Cenario name="CN_apiAccountLinkType_query">        
+        <Execution startTime="13/11/2018 16:17:20" endTime="13/11/2018 16:17:20" outcome="Passed" computer="TOTVSJOI-CRM02">         
+          <Message value=""> 
+          </Message>                                       
+        </Execution>                                       
+      </Cenario>                                           
+    </Cenarios>                                            
+  </CasoTeste>                                             
+  <CasoTeste name="apiAccountLinkType">           
+    <Cenarios>                                             
+      <Cenario name="CN_apiAccountLinkType_post">        
+        <Execution startTime="13/11/2018 16:17:27" endTime="13/11/2018 16:17:27" outcome="Passed" computer="TOTVSJOI-CRM02">         
+          <Message value=""> 
+          </Message>                                       
+        </Execution>                                       
+      </Cenario>                                           
+    </Cenarios>                                            
+  </CasoTeste>                                             
+  <CasoTeste name="apiAccountLinkType">           
+    <Cenarios>                                             
+      <Cenario name="CN_apiAccountLinkType_put">        
+        <Execution startTime="13/11/2018 16:17:36" endTime="13/11/2018 16:17:36" outcome="Passed" computer="TOTVSJOI-CRM02">         
+          <Message value=""> 
+          </Message>                                       
+        </Execution>                                       
+      </Cenario>                                           
+    </Cenarios>                                            
+  </CasoTeste>                                             
+  <CasoTeste name="apiAccountLinkType">           
+    <Cenarios>                                             
+      <Cenario name="CN_apiAccountLinkType_patch">        
+        <Execution startTime="13/11/2018 16:17:45" endTime="13/11/2018 16:17:46" outcome="Passed" computer="TOTVSJOI-CRM02">         
+          <Message value=""> 
+          </Message>                                       
+        </Execution>                                       
+      </Cenario>                                           
+    </Cenarios>                                            
+  </CasoTeste>                                             
+  <CasoTeste name="apiAccountLinkType">           
+    <Cenarios>                                             
+      <Cenario name="CN_apiAccountLinkType_delete">        
+        <Execution startTime="13/11/2018 16:17:53" endTime="13/11/2018 16:17:53" outcome="Passed" computer="TOTVSJOI-CRM02">         
+          <Message value=""> 
+          </Message>                                       
+        </Execution>                                       
+      </Cenario>                                           
+    </Cenarios>                                            
+  </CasoTeste>                                             
+  <CasoTeste name="apiSeller">           
+    <Cenarios>                                             
+      <Cenario name="CN_apiSeller_get">        
+        <Execution startTime="13/11/2018 16:18:17" endTime="13/11/2018 16:18:18" outcome="Passed" computer="TOTVSJOI-CRM02">         
+          <Message value=""> 
+          </Message>                                       
+        </Execution>                                       
+      </Cenario>                                           
+    </Cenarios>                                            
+  </CasoTeste>                                             
+  <CasoTeste name="apiSeller">           
+    <Cenarios>                                             
+      <Cenario name="CN_apiSeller_query">        
+        <Execution startTime="13/11/2018 16:18:26" endTime="13/11/2018 16:18:26" outcome="Passed" computer="TOTVSJOI-CRM02">         
+          <Message value=""> 
+          </Message>                                       
+        </Execution>                                       
+      </Cenario>                                           
+    </Cenarios>                                            
+  </CasoTeste>                                             
+  <CasoTeste name="apiSeller">           
+    <Cenarios>                                             
+      <Cenario name="CN_apiSeller_post">        
+        <Execution startTime="13/11/2018 16:18:33" endTime="13/11/2018 16:18:34" outcome="Passed" computer="TOTVSJOI-CRM02">         
+          <Message value=""> 
+          </Message>                                       
+        </Execution>                                       
+      </Cenario>                                           
+    </Cenarios>                                            
+  </CasoTeste>                                             
+  <CasoTeste name="apiSeller">           
+    <Cenarios>                                             
+      <Cenario name="CN_apiSeller_put">        
+        <Execution startTime="13/11/2018 16:18:41" endTime="13/11/2018 16:18:42" outcome="Passed" computer="TOTVSJOI-CRM02">         
+          <Message value=""> 
+          </Message>                                       
+        </Execution>                                       
+      </Cenario>                                           
+    </Cenarios>                                            
+  </CasoTeste>                                             
+  <CasoTeste name="apiSeller">           
+    <Cenarios>                                             
+      <Cenario name="CN_apiSeller_patch">        
+        <Execution startTime="13/11/2018 16:18:49" endTime="13/11/2018 16:18:49" outcome="Passed" computer="TOTVSJOI-CRM02">         
+          <Message value=""> 
+          </Message>                                       
+        </Execution>                                       
+      </Cenario>                                           
+    </Cenarios>                                            
+  </CasoTeste>                                             
+  <CasoTeste name="apiSeller">           
+    <Cenarios>                                             
+      <Cenario name="CN_apiSeller_delete">        
+        <Execution startTime="13/11/2018 16:18:57" endTime="13/11/2018 16:18:58" outcome="Passed" computer="TOTVSJOI-CRM02">         
+          <Message value=""> 
+          </Message>                                       
+        </Execution>                                       
+      </Cenario>                                           
+    </Cenarios>                                            
+  </CasoTeste>                                             
+</Results>
